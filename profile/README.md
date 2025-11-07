@@ -13,7 +13,7 @@ Right now, open communities are building amazing software together, and there ar
 * [Apply for training opportunities](https://essal.org/apply)
 
 
-Visit [essal.org](https://essal.net) to learn more!
+Visit [essal.net](https://essal.net) to learn more!
 
 
 ## Participating in the community
