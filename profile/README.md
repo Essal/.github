@@ -13,16 +13,16 @@ Right now, open communities are building amazing software together, and there ar
 * [Apply for training opportunities](https://essal.org/apply)
 
 
-Visit [essal.org](https://essal.org) to learn more!
+Visit [essal.org](https://essal.net) to learn more!
 
 
 ## Participating in the community
 
-👤 We aim to create a welcoming and vibrant community. Join us todat at [Essal Community](https://community.essal.org).
+👤 We aim to create a welcoming and vibrant community. Join us today at [Essal Community](https://community.essal.org).
 
 ## Get in touch
 
 Learn more about what we're doing in open source at [opensource.essal.org](https://opensource.essal.org).
-Interested in a career at Essal? Check out our opportunities on [Essal Careers](https://careers.essal.org/)!
+Interested in a career at Essal? Check out our opportunities on [Essal Careers](https://careers.essal.net/)!
 
-👋  [@essal](https://essal.org)
+👋  [@essal](https://essal.net)
